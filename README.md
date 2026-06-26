@@ -18,7 +18,7 @@ a Task Assistant, Cybersecurity Quiz, NLP Simulation and Activity Log.
 
 ## Database Setup
 1. Open MySQL Workbench
-2. Run the following SQL:
+2. Run the following SQL: 
 
 CREATE DATABASE IF NOT EXISTS cybersecurity_bot;
 USE cybersecurity_bot;
