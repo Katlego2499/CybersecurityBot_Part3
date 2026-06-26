@@ -10,7 +10,7 @@ a Task Assistant, Cybersecurity Quiz, NLP Simulation and Activity Log.
 -  Quiz - Test your cybersecurity knowledge with 11 questions
 -  Activity Log - Tracks all bot actions with timestamps 
 
-## Requirements
+## Requirements 
 - Visual Studio 2022 
 - .NET Framework 4.7.2
 - MySQL Server (running locally) 
