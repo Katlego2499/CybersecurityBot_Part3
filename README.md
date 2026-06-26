@@ -8,7 +8,7 @@ a Task Assistant, Cybersecurity Quiz, NLP Simulation and Activity Log.
 -  Chatbot - Ask about passwords, phishing, privacy, scams and more
 -  Task Assistant - Add and manage cybersecurity tasks stored in MySQL database
 -  Quiz - Test your cybersecurity knowledge with 11 questions
--  Activity Log - Tracks all bot actions with timestamps
+-  Activity Log - Tracks all bot actions with timestamps 
 
 ## Requirements
 - Visual Studio 2022
