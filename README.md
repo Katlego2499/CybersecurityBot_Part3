@@ -56,3 +56,4 @@ Server=localhost;Database=cybersecurity_bot;Uid=root;Pwd=YOUR_PASSWORD;
 ## Author
 Katlego Itumeleng Mangwedi
 Student Number: ST10478067
+
