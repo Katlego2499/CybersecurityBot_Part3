@@ -13,7 +13,7 @@ a Task Assistant, Cybersecurity Quiz, NLP Simulation and Activity Log.
 ## Requirements
 - Visual Studio 2022 
 - .NET Framework 4.7.2
-- MySQL Server (running locally)
+- MySQL Server (running locally) 
 - MySql.Data NuGet package
 
 ## Database Setup
